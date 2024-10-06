@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NVR\\CustomerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\models\\filecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\filecustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\models\\icustomerrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\icustomerrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|d:\\nvr\\customerapi\\customerapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DBE96347-174F-4BAF-86DF-16C7A7A7A235}|CustomerAPI\\CustomerAPI.csproj|solutionrelative:customerapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\.gitignore",
+              "RelativeDocumentMoniker": "CustomerAPI\\.gitignore",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\.gitignore",
+              "RelativeToolTip": "CustomerAPI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-06T22:58:54.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Program.cs",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Program.cs",
+              "RelativeToolTip": "CustomerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:22:49.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerAPI\\Services\\CustomerService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:10:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\README.md",
+              "RelativeDocumentMoniker": "CustomerAPI\\README.md",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\README.md",
+              "RelativeToolTip": "CustomerAPI\\README.md",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-06T20:48:59.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T20:11:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileCustomerRepository.cs",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Models\\FileCustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\FileCustomerRepository.cs",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Models\\FileCustomerRepository.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\FileCustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:57:45.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepositorycs.cs",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Models\\ICustomerRepositorycs.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\ICustomerRepositorycs.cs",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Models\\ICustomerRepositorycs.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\ICustomerRepositorycs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:53:29.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerAPI\\Models\\Customer.cs",
+              "ToolTip": "D:\\NVR\\CustomerAPI\\CustomerAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:46:08.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
