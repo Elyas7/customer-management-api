@@ -17,7 +17,7 @@ These instructions will help you set up and run the API on your local machine fo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/customer-api.git
+   git clone https://github.com/Elyas7/customer-management-api.git
    cd customer-api
    ```
 
